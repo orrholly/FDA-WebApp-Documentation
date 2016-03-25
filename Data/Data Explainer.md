@@ -9,7 +9,7 @@ The data are imported as comma-separated values to the Legacy GIS platform from 
 The FDA continuously updates its compliance check database, making all new data available for download once a month.
 Unlike these violation documents, the raw data do not include a unique identifier for each store, nor the date the inspection was completed; only the date that a decision was made about the inspection is provided. To track repeat inspections, each line of data was read into a separate record and unique store names were created from the name and address provided.
 
-*Compliance Check Warning Letter Documents*
+**Compliance Check Warning Letter Documents**  
 Warning letters issued to retailers following their
 first compliance check violation are provided as a
 URL linking the data record to an HTML warning
