@@ -23,3 +23,24 @@ of this script were developed to accommodate
 individual styles of bullet points, paragraphs and
 phrasing, apparently due to manual production of
 each letter via word processing software.
+
+**Compliance Check Civil Monetary Penalty Documents**  
+Civil Money Penalties are issued after a second
+compliance check violation, but not necessarily for
+repeated infringement of the same statute(s). Civil
+Monetary Penalty letters often included details on
+statute violations identified at the first violation
+(ie, in the initial warning letter), as well as violations
+that were observed at subsequent compliance
+checks. This required that each Civil Monetary
+Penalty document be scanned for statute violations,
+to differentiate between repeat versus new offenses noted only in the Civil Monetary Penalty document.
+Unlike the URL links to the warning letters,
+Civil Monetary Penalty documents are provided as
+PDF files. A script was written to download these
+files and convert the PDF into a text document,
+extracting relevant data via text analysis similar to
+that used for the warning letters. In addition to the
+data collected from the warning letter files, data extracted
+from Civil Monetary Penalty documents included
+recent violations and the amount of the fine.
