@@ -14,6 +14,7 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
 
 ###Data Layers 
 >As a researcher, I want to have the ability to toggle on/off and zoom in/out on the following layers projected over a basemap so that >I can make visualize spatial comparisons/correlations between FDA violations and smoking behavior.":
+
    * [FDA Civil Money Penalties (10/12/10-2/28/15)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Civil_Money_Penalties_Complete/MapServer/0)
    * [FDA Warning Letters (10/12/10 - 2/28/15)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Warning_Letters_Complete/MapServer/0)
    * [FDA Civil Money Penalties (10/12/10-7/31/13)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Civil_Money_Penalties/MapServer/0)
@@ -28,10 +29,12 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
 ###Search Functionality 
 **Select Features**
 >As a researcher, I want to be able to click on a **Search Compliance Checks** button that provides a dropdown list of layers (see >above) and allows feature selection by multiple selection tool types (point, line, freehand, rectangle, circle, polygon, freehand >polygon).
+
 <img src="/images/select_search.png" width="400"> 
 
 **Select by Attribute**
->As a researcher, I want to be able to click on a **Search Compliance Checks** button that provides a dropdown list of layers (see >above) and allows me to search by a query against the attributes in the layer that has been selected in the dropdown list. **Knowledge >of data and query string format is required*  
+>As a researcher, I want to be able to click on a **Search Compliance Checks** button that provides a dropdown list of layers (see >above) and allows me to search by a query against the attributes in the layer that has been selected in the dropdown list. **Knowledge >of data and query string format is required*
+
 <img src="/images/street_search.png" width="400"> 
 
 **Layers to Search:**  
