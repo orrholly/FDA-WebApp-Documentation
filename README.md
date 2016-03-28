@@ -18,7 +18,7 @@ Format: "As a **type of user**, I want **some goal** so that **some reason**."
    * [Youth Smoking Prevelance](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/Youth_Smoking_Prevelance/MapServer)
    * [Adult Smoking Prevelance](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/Adult_Smoking_Prevelance/MapServer)
 
-**Search Functionality**
+**Search Functionality**  
 "As a researcher, I want to be able to click on a **Search Compliance Checks** button that provides a dropdown list of layers (see above) and allows feature selection by multiple selection tool types (point, line, freehand, rectangle, circle, polygon, freehand polygon)."
 
 
