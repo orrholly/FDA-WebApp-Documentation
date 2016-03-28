@@ -25,27 +25,24 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
 
 ###Search Functionality 
 **Select Features**
+*This functionality may not be currently working.*
 > As a researcher, I want to be able to click on a **Search Compliance Checks** button that provides a dropdown list of layers (see above) and allows feature selection by multiple selection tool types (point, line, freehand, rectangle, circle, polygon, freehand polygon).
 
 <img src="/images/select_search.png" width="400"> 
 
 **Select by Attribute**
-*Knowledge of data and query string format is required.*  
-> As a researcher, I want to be able to click on a *Search Compliance Checks* button that provides a dropdown list of layers (see above) and allows me to search by a query against the attributes in the layer that has been selected in the dropdown list. 
+*This functionality may not be currently working. Knowledge of data and query string format is required.*  
+> As a researcher, I want to be able to click on a **Search Compliance Checks** button that provides a dropdown list of layers (see above) and allows me to search by a query against the attributes in the layer that has been selected in the dropdown list. 
 
 <img src="/images/street_search.png" width="400"> 
 
 **Select by Block Group**
 *This functionality may not be currently working.*  
-> As a researcher, I want to be able to click on a *Search Compliance Checks* button, enter a blockgroup code (e.g. census_search.png) and return all layers' records in the selected block group. 
+> As a researcher, I want to be able to click on a **Search Compliance Checks** button, enter a blockgroup code (e.g. census_search.png) and return all layers' records in the selected block group. 
 
 <img src="/images/census_search.png" width="400"> 
 
-**Select by Block Group**
-*This functionality may not be currently working.*  
-> As a researcher, I want to be able to click on a *Search Compliance Checks* button, enter a blockgroup code (e.g. census_search.png) and return all layers' records in the selected block group. 
 
-<img src="/images/census_search.png" width="400"> 
 
 
 **Layers to Search:**  
