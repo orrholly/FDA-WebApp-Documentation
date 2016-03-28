@@ -25,14 +25,27 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
 
 ###Search Functionality 
 **Select Features**
->As a researcher, I want to be able to click on a **Search Compliance Checks** button that provides a dropdown list of layers (see >above) and allows feature selection by multiple selection tool types (point, line, freehand, rectangle, circle, polygon, freehand >polygon).
+> As a researcher, I want to be able to click on a **Search Compliance Checks** button that provides a dropdown list of layers (see above) and allows feature selection by multiple selection tool types (point, line, freehand, rectangle, circle, polygon, freehand polygon).
 
 <img src="/images/select_search.png" width="400"> 
 
 **Select by Attribute**
-> As a researcher, I want to be able to click on a *Search Compliance Checks* button that provides a dropdown list of layers (see above) and allows me to search by a query against the attributes in the layer that has been selected in the dropdown list. **Knowledge of data and query string format is required*
+*Knowledge of data and query string format is required.*  
+> As a researcher, I want to be able to click on a *Search Compliance Checks* button that provides a dropdown list of layers (see above) and allows me to search by a query against the attributes in the layer that has been selected in the dropdown list. 
 
 <img src="/images/street_search.png" width="400"> 
+
+**Select by Block Group**
+*This functionality may not be currently working.*  
+> As a researcher, I want to be able to click on a *Search Compliance Checks* button, enter a blockgroup code (e.g. census_search.png) and return all layers' records in the selected block group. 
+
+<img src="/images/census_search.png" width="400"> 
+
+**Select by Block Group**
+> As a researcher, I want to be able to click on a *Search Compliance Checks* button, enter a blockgroup code (e.g. census_search.png) and return all layers' records in the selected block group. 
+
+<img src="/images/census_search.png" width="400"> 
+
 
 **Layers to Search:**  
 * [FDA Civil Money Penalties (10/12/10-7/31/13)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Civil_Money_Penalties/MapServer/0)
