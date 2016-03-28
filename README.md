@@ -53,9 +53,13 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
 <img src="/images/layers.png" width="400">   
 
 
-**Legend**
+###Legend
+
+###ID Tool
+
+###Address Locator
+
+###Print Map
 
 
-
-
-###Technical Specs
+##Technical Specs
