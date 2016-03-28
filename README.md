@@ -16,13 +16,12 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
    * [FDA Warning Letters (10/12/10 - 2/28/15)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Warning_Letters_Complete/MapServer/0)
    * [FDA Civil Money Penalties (10/12/10-7/31/13)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Civil_Money_Penalties/MapServer/0)
    * [FDA Warning Letters (10/12/10 - 7/31/13)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Warning_Letters_Complete/MapServer/0)
-   * [FDA State Contracts](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_State_Contracts/MapServer)
-   *    Total Awards  
-   * [State Synar Rates](http://gis.truthinitiative.org/arcgis/rest/services/FDA/State_Synar_Rates/MapServer)
-   * [Smokefree Indoor Laws](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/Smokefree_Indoor_Laws/MapServer)
+   * [FDA State Contracts](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_State_Contracts/MapServer) - Total Awards
+   * [State Synar Rates](http://gis.truthinitiative.org/arcgis/rest/services/FDA/State_Synar_Rates/MapServer) - 2012 Quantiles; 2011 Quantiles
+   * [Smokefree Indoor Laws](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/Smokefree_Indoor_Laws/MapServer) - Restaurants; Bars; Resturants & Bars; Workplaces; Restaurants, Bars & Workplaces
    * [State Excise Tax 2013](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/State_Excise_Tax_2013/MapServer)
-   * [Youth Smoking Prevelance](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/Youth_Smoking_Prevelance/MapServer)
-   * [Adult Smoking Prevelance](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/Adult_Smoking_Prevelance/MapServer)
+   * [Youth Smoking Prevelance](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/Youth_Smoking_Prevelance/MapServer) - 2011 Quanitles; 2009 Quantiles
+   * [Adult Smoking Prevelance](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/Adult_Smoking_Prevelance/MapServer) - 2012 Quanitles; 2011 Quantiles; 2010 Quantiles
 
 ###Search Functionality 
 **Select Features**
