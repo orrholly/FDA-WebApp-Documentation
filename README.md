@@ -5,7 +5,7 @@ As a researcher I want to be able to click on a "Search Inspections" button that
 
 ###Functional Specs / User Stories
 Recreate functionality in Andrew's app: http://gis.truthinitiative.org/tobaccoviewer/  
-Format: As a **type of user**, I want **some goal** so that **some reason**.  
+*Format: As a **type of user**, I want **some goal** so that **some reason**.*  
 
 **Data Layers**  
 As a researcher, I want to have the ability to toggle on/off and zoom in/out on the following layers projected over a basemap:
