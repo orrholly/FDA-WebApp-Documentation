@@ -54,6 +54,8 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
 
 
 ###Legend
+Create a dynamic legend that responds to toggle on/off visiblity of layers.
+<img src="/images/layers.png" width="400">
 
 ###ID Tool
 
