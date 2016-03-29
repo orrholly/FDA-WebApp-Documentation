@@ -81,5 +81,10 @@ Create a dynamic legend that responds to toggle on/off visiblity of layers.
 
 
 ###Address Locator
+Search by address:  
+<img src="/images/adress.png" width="300">
+
+Search by lat/long:  
+<img src="/images/latlong.png" width="300">
 
 ###Print Map
