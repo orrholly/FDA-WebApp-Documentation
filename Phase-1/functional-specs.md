@@ -87,8 +87,14 @@ Search by address:
 Search by lat/long:  
 <img src="/images/latlong.png" width="300">
 
+###Draw and Measure
+<img src="/images/draw.png" width="300">  
+
 ###Print Map  
 Prints a PDF of map with title and subtitle.  
 
-###Draw and Measure
-<img src="/images/draw.png" width="300">
+###Bookmark  
+Creates a bookmark of extent you choose.
+**Bug**: Widget is not allowing for saving. Tested in Chrome and Firefox.  
+<img src="/images/bookmark.png" width="300"> 
+
