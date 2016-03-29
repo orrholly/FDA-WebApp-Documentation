@@ -24,7 +24,7 @@ individual styles of bullet points, paragraphs and
 phrasing, apparently due to manual production of
 each letter via word processing software.
 
-**Compliance Check Civil Monetary Penalty Documents**  
+**Compliance Check Civil Monetary Penalty Documents**    
 Civil Money Penalties are issued after a second
 compliance check violation, but not necessarily for
 repeated infringement of the same statute(s). Civil
@@ -45,7 +45,7 @@ data collected from the warning letter files, data extracted
 from Civil Monetary Penalty documents included
 recent violations and the amount of the fine.
 
-**Violations of Statute 1140.14e**
+**Violations of Statute 1140.14e**  
 Any warning letter that referenced a violation of
 statute 1140.14e required further review, as multiple
 violation subtypes fell under this statute (Table
@@ -68,7 +68,7 @@ provided to the right of the relevant passage. This
 task was run repeatedly until there was at least 90%
 consensus among the raters as to the subtype.
 
-**Geographic Location of Each Compliance Check**
+**Geographic Location of Each Compliance Check**  
 The addresses for all FDA compliance checks (N
 = 189,594) were batch geocoded by utilizing the
 street address locator in Environmental Systems
