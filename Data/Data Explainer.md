@@ -44,3 +44,56 @@ that used for the warning letters. In addition to the
 data collected from the warning letter files, data extracted
 from Civil Monetary Penalty documents included
 recent violations and the amount of the fine.
+
+**Violations of Statute 1140.14e**
+Any warning letter that referenced a violation of
+statute 1140.14e required further review, as multiple
+violation subtypes fell under this statute (Table
+1). The many combinations of the violation subtypes
+that could be found in any single letter precluded
+development of a reliable pattern-matching
+script to extract this information. Thus, each letter
+needed to be reviewed by a person who could identify
+each of the specific violation subtypes listed in
+the letter under 1140.14e (ie, advertising, labeling,
+and other items; Table 1). To accomplish this, a
+custom crowdsourcing platform based on Amazon’s
+Mechanical Turk system was employed.20 A
+pattern-matching script highlighted text relevant
+to 1140.14(e) within these letters and this text
+was displayed to multiple independent raters who
+were each asked to identify the violation subtypes
+cited in the text, with check-boxes for each subtype
+provided to the right of the relevant passage. This
+task was run repeatedly until there was at least 90%
+consensus among the raters as to the subtype.
+
+**Geographic Location of Each Compliance Check**
+The addresses for all FDA compliance checks (N
+= 189,594) were batch geocoded by utilizing the
+street address locator in Environmental Systems
+Research Institute’s (ESRI) ArcGIS Online geocoding
+services.21 A batch geocoding match was obtained
+for approximately 90% (N = 170,963) of
+the FDA compliance check addresses. All tied and
+unmatched addresses were manually geocoded following
+the batch geocoding results to ensure the
+completeness of the spatial dataset. To ensure the
+spatial accuracy of the dataset, all matched addresses
+that received a score < 85 (N = 149) during
+the batch geocoding processes were ortho-verified
+to ensure their spatial accuracy. Any addresses that
+were not accurately located (N = 226) were orthorectified
+to their correct spatial location. The final
+spatial dataset of FDA compliance checks was imported
+into the GIS database.
+The data used in these analyses is publicly available
+via the Legacy Tobacco Viewer, a tool that
+allows for the examination of changes in FDA
+compliance check inspections over time. The tool
+is integrated with Legacy’s GIS portal, which allows
+users to explore how compliance check inspections
+may be associated with a range of other factors. Users
+can quickly zoom to their local area and bookmark
+their preferences as they overlay various data
+sources and visualize the results.
