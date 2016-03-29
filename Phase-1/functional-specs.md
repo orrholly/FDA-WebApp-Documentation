@@ -3,7 +3,7 @@
 User Stories Format: "As a **type of user**, I want **some goal** so that **some reason**." 
 
 ###Data Layers / ID Tool 
-> As a researcher, I want to have the ability to toggle on/off and zoom in/out on the following layers projected over a basemap so that I can make visualize spatial comparisons/correlations between FDA violations and smoking behavior.":
+> As a researcher, I want to have the ability to toggle on/off and zoom in/out on the following layers projected over a basemap so that I can make visualize spatial comparisons/correlations between FDA violations and smoking behavior. While the layer is visible, I also want the ability to select a point, polygon, or line and view the attributes associated with that feature in a popup window."
 
 **Bug**: *ID Tool is not working on points with multiple points - must zoom into single points.* 
 
@@ -71,28 +71,32 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
 * [FDA Warning Letters (10/12/10 - 2/28/15)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Warning_Letters_Complete/MapServer/0)  
 <img src="/images/layers.png" width="400">   
 
-###Legend
-Create a dynamic legend that responds to toggle on/off visiblity of layers.
+###Legend  
+> "As a researcher, I want the application to create a dynamic legend that responds to toggle on/off visiblity of layers I chose."  
+
 <img src="/images/legend.png" width="400">
 
 ###Address Locator
-Search by address:  
+> "As a researcher, I want the application to zoom to an address I enter."  
 <img src="/images/address.png" width="300">
 
-Search by lat/long:  
+Search by lat/long: 
+> "As a researcher, I want the application to zoom to a lat/long I enter."
 <img src="/images/latlong.png" width="300">
 
-###Draw and Measure
+###Draw and Measure  
+> "As a researcher, I want the application to allow me to draw points, polygons, lines, and freehand shapes on the map viewer."  
 <img src="/images/draw.png" width="300">  
 
 ###Print Map  
-Prints a PDF of map with title and subtitle.  
+> "As a researcher, I want the application to print a PDF of map with title and subtitle."
 
 ###Bookmark  
-Creates a bookmark of extent you choose.  
+> "As a researcher, I want the application to creates a bookmark of an extent I choose."  
 **Bug**: Widget is not allowing for saving. Tested in Chrome and Firefox.  
 <img src="/images/bookmark.png" width="300"> 
 
-###Basic Navigation  
-Pan, zoom-in, zoom-out, full-extent, select area to zoom in.
+###Basic Navigation 
+> "As a researcher, I want the application to have basic navigation functionality: pan, zoom-in, zoom-out, full-extent, select area to zoom to."  
+
 
