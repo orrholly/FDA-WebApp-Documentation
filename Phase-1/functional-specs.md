@@ -73,17 +73,21 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
 
 ###Legend  
 > "As a researcher, I want the application to create a dynamic legend that responds to toggle on/off visiblity of layers I chose."  
+
 <img src="/images/legend.png" width="400">
 
 ###Address Locator
 > "As a researcher, I want the application to zoom to an address I enter."  
+
 <img src="/images/address.png" width="300">
 
 > "As a researcher, I want the application to zoom to a lat/long I enter."  
+
 <img src="/images/latlong.png" width="300">
 
 ###Draw and Measure  
 > "As a researcher, I want the application to allow me to draw points, polygons, lines, and freehand shapes on the map viewer."  
+
 <img src="/images/draw.png" width="300">  
 
 ###Print Map  
@@ -92,6 +96,7 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
 ###Bookmark  
 > "As a researcher, I want the application to creates a bookmark of an extent I choose."  
 **Bug**: Widget is not allowing for saving. Tested in Chrome and Firefox.  
+
 <img src="/images/bookmark.png" width="300"> 
 
 ###Basic Navigation 
