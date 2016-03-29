@@ -27,14 +27,14 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
     Example of linked doc URL: http://www.fda.gov/downloads/tobaccoproducts/guidancecomplianceregulatoryinformation/ucm315938.pdf  
    <img src="/images/civil_money_2015.png" width="200"> 
 
-   * [FDA Warning Letters (10/12/10 - 7/31/13)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Warning_Letters_Complete/MapServer/0)  
-   Example of linked doc URL: http://www.fda.gov/ICECI/EnforcementActions/WarningLetters/tobacco/ucm302669.htm  
+   * [FDA Warning Letters (10/12/10 - 7/31/13)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Warning_Letters_Complete/MapServer/0)    
+   Example of linked doc URL: http://www.fda.gov/ICECI/EnforcementActions/WarningLetters/tobacco/ucm302669.htm    
    **Bug:** Link to document is not working. 
    <img src="/images/civil_money_2015.png" width="200"> 
    
    * [FDA State Contracts](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_State_Contracts/MapServer) - Total Awards  
-   2010 - 2015 awards and ammount and total listed    
-   <img src="/images/civil_money_2015.png" width="200">
+   2010 - 2015 awards and ammount and total listed      
+   <img src="/images/state_contracts.png" width="200">  
    
    * [State Synar Rates](http://gis.truthinitiative.org/arcgis/rest/services/FDA/State_Synar_Rates/MapServer) - 2012 Quantiles; 2011 Quantiles
    * [Smokefree Indoor Laws](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/Smokefree_Indoor_Laws/MapServer) - Restaurants; Bars; Resturants & Bars; Workplaces; Restaurants, Bars & Workplaces
@@ -44,7 +44,7 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
 
 ###Search Functionality 
 **Select Features**
-*This functionality may not be currently working.*
+**Bug**:*This functionality may not be currently working.*
 > As a researcher, I want to be able to click on a **Search Compliance Checks** button that provides a dropdown list of layers (see above) and allows feature selection by multiple selection tool types (point, line, freehand, rectangle, circle, polygon, freehand polygon).
 
 <img src="/images/select_search.png" width="400"> 
