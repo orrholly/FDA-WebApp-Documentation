@@ -15,14 +15,20 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
    * [FDA Civil Money Penalties (10/12/10-2/28/15)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Civil_Money_Penalties_Complete/MapServer/0)  
    Example of linked doc URL: http://www.fda.gov/downloads/tobaccoproducts/guidancecomplianceregulatoryinformation/ucm428068.pdf  
    ID Tool is not working on points with multiple points expanded.  
-   <img src="/images/civil_money_2015.png" width="200"> 
-   * [FDA Warning Letters (10/12/10 - 2/28/15)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Warning_Letters_Complete/MapServer/0)  
+   <img src="/images/civil_money_2015.png" width="200">
+
+   * [FDA Warning Letters (10/12/10 - 2/28/15)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Warning_Letters_Complete/MapServer/0) 
+   Example of linked doc URL: http://www.fda.gov/ICECI/EnforcementActions/WarningLetters/tobacco/ucm374485.htm  
+   ID Tool is not working on points with multiple points expanded.  
    <img src="/images/warning2015.png" width="200"> 
+
    * [FDA Civil Money Penalties (10/12/10-7/31/13)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Civil_Money_Penalties/MapServer/0) 
     Example of linked doc URL: http://www.fda.gov/downloads/tobaccoproducts/guidancecomplianceregulatoryinformation/ucm428068.pdf  
     ID Tool is not working on points with multiple points expanded.  
    <img src="/images/civil_money_2015.png" width="200"> 
+
    * [FDA Warning Letters (10/12/10 - 7/31/13)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Warning_Letters_Complete/MapServer/0)
+   
    * [FDA State Contracts](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_State_Contracts/MapServer) - Total Awards
    * [State Synar Rates](http://gis.truthinitiative.org/arcgis/rest/services/FDA/State_Synar_Rates/MapServer) - 2012 Quantiles; 2011 Quantiles
    * [Smokefree Indoor Laws](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/Smokefree_Indoor_Laws/MapServer) - Restaurants; Bars; Resturants & Bars; Workplaces; Restaurants, Bars & Workplaces
