@@ -5,7 +5,7 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
 ###Data Layers / ID Tool 
 > As a researcher, I want to have the ability to toggle on/off and zoom in/out on the following layers projected over a basemap so that I can make visualize spatial comparisons/correlations between FDA violations and smoking behavior.":
 
-*Bug: ID Tool is not working on points with multiple points - must zoom into single points.* 
+**Bug**: *ID Tool is not working on points with multiple points - must zoom into single points.* 
 
    * [FDA Civil Money Penalties (10/12/10-2/28/15)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Civil_Money_Penalties_Complete/MapServer/0)    
    Example of linked doc URL: http://www.fda.gov/downloads/tobaccoproducts/guidancecomplianceregulatoryinformation/ucm428068.pdf    
@@ -52,20 +52,17 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
 
 <img src="/images/select_search.png" width="400"> 
 
-**Select by Attribute**
+**Select by Attribute**  
 **Bug**:*This functionality is not be currently working. Knowledge of data and query string format is required.*  
 > As a researcher, I want to be able to click on a **Search Compliance Checks** button that provides a dropdown list of layers (see above) and allows me to search by a query against the attributes in the layer that has been selected in the dropdown list. 
 
 <img src="/images/street_search.png" width="400"> 
 
-**Select by Block Group**
+**Select by Block Group**  
 **Bug**:*This functionality is not be currently working.*  
 > As a researcher, I want to be able to click on a **Search Compliance Checks** button, enter a blockgroup code (e.g. census_search.png) and return all layers' records in the selected block group. 
 
 <img src="/images/census_search.png" width="400"> 
-
-
-
 
 **Layers to Search:**  
 * [FDA Civil Money Penalties (10/12/10-7/31/13)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Civil_Money_Penalties/MapServer/0)
@@ -74,11 +71,9 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
 * [FDA Warning Letters (10/12/10 - 2/28/15)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Warning_Letters_Complete/MapServer/0)  
 <img src="/images/layers.png" width="400">   
 
-
 ###Legend
 Create a dynamic legend that responds to toggle on/off visiblity of layers.
 <img src="/images/legend.png" width="400">
-
 
 ###Address Locator
 Search by address:  
