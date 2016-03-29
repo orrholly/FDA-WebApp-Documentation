@@ -37,13 +37,20 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
    <img src="/images/state_contracts.png" width="200">  
    
    * [State Synar Rates](http://gis.truthinitiative.org/arcgis/rest/services/FDA/State_Synar_Rates/MapServer) - 2012 Quantiles; 2011 Quantiles  
-   * <img src="/images/civil_money_2015.png" width="200">
+   <img src="/images/synar.png" width="200">
    
+   * [Smokefree Indoor Laws](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/Smokefree_Indoor_Laws/MapServer) - Restaurants; Bars; Resturants & Bars; Workplaces; Restaurants, Bars & Workplaces  
+   <img src="/images/bars.png" width="200">  
+
+   * [State Excise Tax 2013](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/State_Excise_Tax_2013/MapServer)  
+   Shows taxes 2013 - 1995  
+   <img src="/images/excise.png" width="200">  
+
+   * [Youth Smoking Prevelance](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/Youth_Smoking_Prevelance/MapServer) - 2011 Quanitles; 2009 Quantiles  
+   <img src="/images/youth.png" width="200"> 
    
-   * [Smokefree Indoor Laws](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/Smokefree_Indoor_Laws/MapServer) - Restaurants; Bars; Resturants & Bars; Workplaces; Restaurants, Bars & Workplaces
-   * [State Excise Tax 2013](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/State_Excise_Tax_2013/MapServer)
-   * [Youth Smoking Prevelance](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/Youth_Smoking_Prevelance/MapServer) - 2011 Quanitles; 2009 Quantiles
-   * [Adult Smoking Prevelance](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/Adult_Smoking_Prevelance/MapServer) - 2012 Quanitles; 2011 Quantiles; 2010 Quantiles
+   * [Adult Smoking Prevelance](http://gis.truthinitiative.org/arcgis/rest/services/WebApp/Adult_Smoking_Prevelance/MapServer) - 2012 Quanitles; 2011 Quantiles; 2010 Quantiles  
+   <img src="/images/adult.png" width="200"> 
 
 ###Search Functionality 
 **Select Features**
