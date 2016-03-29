@@ -13,12 +13,13 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
 > As a researcher, I want to have the ability to toggle on/off and zoom in/out on the following layers projected over a basemap so that I can make visualize spatial comparisons/correlations between FDA violations and smoking behavior.":
 
    * [FDA Civil Money Penalties (10/12/10-2/28/15)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Civil_Money_Penalties_Complete/MapServer/0)  
-   Example of linked doc URL: http://www.fda.gov/downloads/tobaccoproducts/guidancecomplianceregulatoryinformation/ucm428068.pdf  
-   ID Tool is not working on points with multiple points expanded.  
+   Example of linked doc URL: http://www.fda.gov/downloads/tobaccoproducts/guidancecomplianceregulatoryinformation/ucm428068.pdf    
+   ID Tool is not working on points with multiple points expanded.    
    <img src="/images/civil_money_2015.png" width="200">
 
    * [FDA Warning Letters (10/12/10 - 2/28/15)](http://gis.truthinitiative.org/arcgis/rest/services/FDA/FDA_Warning_Letters_Complete/MapServer/0) 
-   Example of linked doc URL: http://www.fda.gov/ICECI/EnforcementActions/WarningLetters/tobacco/ucm374485.htm  
+   Example of linked doc URL: http://www.fda.gov/ICECI/EnforcementActions/WarningLetters/tobacco/ucm374485.htm    
+   Link to document is not working.  
    ID Tool is not working on points with multiple points expanded.  
    <img src="/images/warning2015.png" width="200"> 
 
@@ -70,7 +71,6 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
 Create a dynamic legend that responds to toggle on/off visiblity of layers.
 <img src="/images/legend.png" width="400">
 
-###ID Tool
 
 ###Address Locator
 
