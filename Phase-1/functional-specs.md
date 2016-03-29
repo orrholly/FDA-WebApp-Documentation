@@ -93,9 +93,9 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
 ###Print Map  
 > "As a researcher, I want the application to print a PDF of map with title and subtitle."
 
-###Bookmark  
-> "As a researcher, I want the application to creates a bookmark of an extent I choose."  
+###Bookmark
 **Bug**: Widget is not allowing for saving. Tested in Chrome and Firefox.  
+> "As a researcher, I want the application to creates a bookmark of an extent I choose."  
 
 <img src="/images/bookmark.png" width="300"> 
 
