@@ -46,20 +46,20 @@ User Stories Format: "As a **type of user**, I want **some goal** so that **some
    <img src="/images/adult.png" width="200"> 
 
 ###Search Functionality 
-**Select Features**
-**Bug**:*This functionality may not be currently working.*
+**Select Features**  
+**Bug**:*This functionality is not be currently working.*
 > As a researcher, I want to be able to click on a **Search Compliance Checks** button that provides a dropdown list of layers (see above) and allows feature selection by multiple selection tool types (point, line, freehand, rectangle, circle, polygon, freehand polygon).
 
 <img src="/images/select_search.png" width="400"> 
 
 **Select by Attribute**
-*This functionality may not be currently working. Knowledge of data and query string format is required.*  
+**Bug**:*This functionality is not be currently working. Knowledge of data and query string format is required.*  
 > As a researcher, I want to be able to click on a **Search Compliance Checks** button that provides a dropdown list of layers (see above) and allows me to search by a query against the attributes in the layer that has been selected in the dropdown list. 
 
 <img src="/images/street_search.png" width="400"> 
 
 **Select by Block Group**
-*This functionality may not be currently working.*  
+**Bug**:*This functionality is not be currently working.*  
 > As a researcher, I want to be able to click on a **Search Compliance Checks** button, enter a blockgroup code (e.g. census_search.png) and return all layers' records in the selected block group. 
 
 <img src="/images/census_search.png" width="400"> 
@@ -94,7 +94,10 @@ Search by lat/long:
 Prints a PDF of map with title and subtitle.  
 
 ###Bookmark  
-Creates a bookmark of extent you choose.
+Creates a bookmark of extent you choose.  
 **Bug**: Widget is not allowing for saving. Tested in Chrome and Firefox.  
 <img src="/images/bookmark.png" width="300"> 
+
+###Basic Navigation  
+Pan, zoom-in, zoom-out, full-extent, select area to zoom in.
 
