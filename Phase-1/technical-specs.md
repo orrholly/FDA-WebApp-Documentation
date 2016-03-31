@@ -1,6 +1,8 @@
 ##Comparing Backend Hosting
 
 ###Backend Hosting on CartoDB - Open Source
+**Data ETL from Survos**  
+After massaging and geocoding data, a python script can upload the shapefile to CartoDB PostGIS/PostgreSQL using arcpy library.  
 
 **Database:**  
 PostGIS/PostgreSQL - Hosted on CartoDB's cloud. 
