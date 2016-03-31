@@ -2,7 +2,7 @@
 
 ###Backend Hosting on CartoDB - Open Source
 **Data ETL from Survos**  
-After massaging and geocoding data, a python script can upload the shapefile to CartoDB PostGIS/PostgreSQL using arcpy library.  
+After massaging and geocoding data, a python script can upload the shapefile to CartoDB PostGIS/PostgreSQL using a cartodb library or api (have to research).  
 
 **Database:**  
 PostGIS/PostgreSQL - Hosted on CartoDB's cloud. 
@@ -12,19 +12,6 @@ AWS Apache / GeoServer - Hosted by CartoDB's Cloud.
 
   > Pros: Easy to use for testing  
 Cons: Limited control; can't guaranteed security; cost $$ for private instance  
-
-###Backend Hosting on NYU Stack - ESRI  
-**Data ETL from Survos**  
-After massaging and geocoding data, a python script can upload the shapefile to SDE/PostgreSQL using arcpy library.
-
-**Database:**  
-AWS SDE/PostgreSQL  
-
-**Web Server:**  
-AWS Apache / ArcGIS Server - Create WMS and WFS (web services) from data on SDE. Create MXDs for styling (quantile, point color, etc) using ArcGIS interface.  
-
-  > Pros: Free; Already have AWS; Can easily install LAPP; control of configuration, updates, and security  
-Cons: Not as turn-key for dynamic analysis as ArcGIS Server; No user support help line  
 
 ###Backend Hosting on NYU Stack - Open Source
 
@@ -36,3 +23,18 @@ AWS Apache / GeoServer - Create WMS and WFS (web services) from data on PostGIS.
 
   > Pros: Free; Already have AWS; Can easily install LAPP; control of configuration, updates, and security  
 Cons: Not as turn-key for dynamic analysis as ArcGIS Server; No user support help line  
+
+###Backend Hosting on NYU Stack - ESRI  
+**Data ETL from Survos**  
+After massaging and geocoding data, a python script can upload the shapefile to SDE/PostgreSQL using arcpy library.
+
+**Database:**  
+AWS SDE/PostgreSQL  
+
+**Web Server:**  
+AWS Apache / ArcGIS Server - Create WMS and WFS (web services) from data on SDE. Create MXDs for styling (quantile, point color, etc) using ArcGIS interface.  
+
+  > Pros:  Already have AWS; Can easily install LAPP; control of configuration, updates, and security, long experience with SDE/ArcGIS, lots of support, already built apis and ease of high-end analysis web services  
+Cons: $$, Not open source, will require a separate build from a postgis/postgreql installation 
+
+
