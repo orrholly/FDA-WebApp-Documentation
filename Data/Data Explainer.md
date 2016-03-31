@@ -3,8 +3,8 @@
 ###From http://fdainspections.info/
 The FDA makes its inspection data available here:
 
-http://www.fda.gov/ICECI/EnforcementActions/WarningLetters/Tobacco/default.htm
-http://www.accessdata.fda.gov/scripts/oce/inspections/oce_insp_searching.cfm
+http://www.fda.gov/ICECI/EnforcementActions/WarningLetters/Tobacco/default.htm  
+http://www.accessdata.fda.gov/scripts/oce/inspections/oce_insp_searching.cfm  
 The data was downloaded in CSV (Commma-Separated Values), cleaned (there are some formatting issues in the data), and imported into a relational database.
 
 The cleaned data was then exported in run through geocoding software to get the latitude and longitude. Although this wasn't critical at this step, it was important for later integration with our Streetview project.
