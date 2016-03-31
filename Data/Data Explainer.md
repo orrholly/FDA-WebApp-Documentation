@@ -1,9 +1,9 @@
 
 ##Data Download
-The FDA makes its inspection data available here:  
-    * http://www.fda.gov/ICECI/EnforcementActions/WarningLetters/Tobacco/default.htm      
-    * http://www.accessdata.fda.gov/scripts/oce/inspections/oce_insp_searching.cfm 
-    * Links to compliance and warning letters are supplied in urls in the data above.  
+The FDA makes its inspection data available here:    
+  * http://www.fda.gov/ICECI/EnforcementActions/WarningLetters/Tobacco/default.htm      
+  * http://www.accessdata.fda.gov/scripts/oce/inspections/oce_insp_searching.cfm  
+  * Links to compliance and warning letters are supplied in urls in the data above.  
 
 ##Data Cleaning
 
