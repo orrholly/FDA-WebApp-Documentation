@@ -15,8 +15,11 @@ Cons: Limited control; can't guaranteed security; cost $$ for private instance
 
 ###Backend Hosting on NYU Stack - Open Source
 
+**Data ETL from Survos**  
+After massaging and geocoding data, a phython script can upload the shapefile to PostGIS/PostgreSQL using ogr2ogr or shploader commands.
+
 **Database:**  
-AWS PostGIS/PostgreSQL - After massaging and geocoding data, a phython script can upload the shapefile to PostGIS/PostgreSQL using ogr2ogr or shploader commands.
+AWS PostGIS/PostgreSQL
 
 **Web Server:**  
 AWS Apache / GeoServer - Create WMS and WFS (web services) from data on PostGIS. Create SLDs for styling (quantile, point color, etc).
