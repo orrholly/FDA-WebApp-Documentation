@@ -1,3 +1,15 @@
+##Data Cleaning Processes
+
+###From http://fdainspections.info/
+The FDA makes its inspection data available here:
+
+http://www.fda.gov/ICECI/EnforcementActions/WarningLetters/Tobacco/default.htm
+http://www.accessdata.fda.gov/scripts/oce/inspections/oce_insp_searching.cfm
+The data was downloaded in CSV (Commma-Separated Values), cleaned (there are some formatting issues in the data), and imported into a relational database.
+
+The cleaned data was then exported in run through geocoding software to get the latitude and longitude. Although this wasn't critical at this step, it was important for later integration with our Streetview project.
+
+Next, a "screen scraping" program was used to download the violation letters, basicially accomplishing the same thing as visiting each url for the violation letter, and saving the HTML (the letter with its formatting). Finally, another program was run that looked for certain patterns -- mostly the sections that were mentioned. The results were stored in a separate table, linked to the letter, which in turn was linked to the inspection and the store.
 
 ###From National Enforcement of the FSPTCA at Point-of-Sale
 
