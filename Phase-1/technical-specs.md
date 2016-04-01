@@ -40,7 +40,7 @@ AWS Apache / ArcGIS Server - Create WMS and WFS (web services) from data on SDE.
   > **Pros:**  Already have AWS; Can easily install LAPP; control of configuration, updates, and security, long experience with SDE/ArcGIS, lots of support, already built apis and ease of high-end analysis web services  
 **Cons:** $$, Not open source, will require a separate build from a postgis/postgreql installation 
 
-##Comparing Front-end Web Solutions
+##Comparing Front-End Web Solutions
 
 ###Openlayers 3 - Open Source
 With the upgrade to OpenLayers 3 in 2015, it has gotten a lot better. Can make multi-layer maps like in ESRI apis.  
