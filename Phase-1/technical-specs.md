@@ -67,8 +67,8 @@ Code: JavaScript, jQuery, HTML, CSS, SQL PostgreSQL/PostGIS, CartoDB packages an
   * https://github.com/clhenrick/BushwickCommunityMap - can reverse engineer this as a guide.
   * https://www.mapbox.com/mapbox.js/example/v1.0.0/layers/
 
-  > **Pros:**  Combines a lot of tools.  Good to have in-house knowledge of all these libraries, APIs. 
-**Cons:** development time may be a bit longer than straight up CartoDB. 
+  > **Pros:**  Combines a lot of tools.  Good to have in-house knowledge of all these libraries, APIs.   
+**Cons:** development time may be a bit longer than straight up CartoDB, but could be launched as a phase 3 development stage after proof of concept developed on CartoDB or OpenLayers.   
 
 ###ESRI JavaScript API - Proprietary
 This is the same approach Andrew used with the Flex API (getting depracated) and the SilverLight API I developed in 5 years ago (also getting deprecated).     
@@ -76,3 +76,11 @@ This is the same approach Andrew used with the Flex API (getting depracated) and
 
   > **Pros:**  Everything pretty much out of the box is sufficient to meet functional specs; Excellent phone support; ability to access high level analysis web services on backend data.  
 **Cons:** $$; proprietary; most likely still requires using the ESRI stack (ArcGIS Server); ESRI (like all things) can be buggy/klunky. 
+
+##Other Considerations
+
+###Geocoding  
+This can be expensive. Here are some solutions:
+  * With our Basic Plan, CartoDB charges 1K/mo included US$15/1k extra
+  * ESRI - no longer included Geocoding with ArcGIS License. Have to use online Geocoding. I can check with my library friends to see how many service credits we have available at NYU. But from most of my discussions with other universities (Stanford, Columbia, Baruch, Pratt), the limit is hit pretty fast. ESRI's pricing/licensing is pretty confusing. See here: http://www.esri.com/software/arcgis/arcgisonline/credits  
+  * Google
