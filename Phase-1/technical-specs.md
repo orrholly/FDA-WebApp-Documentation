@@ -98,5 +98,5 @@ I will have research this. I'm not sure how out of the box responsive design tem
 It is a bit hard to scope the development phase until we have landed on the stack we want to use. Here is a first stab at a Gantt chart for Phase 1 at a tree-top scale. I can scope each element once we have agreed on functional specs and stack. 
 
 Here is the Google Sheet I'm using for PM: [FDA Web App - GANTT Chart](https://docs.google.com/spreadsheets/d/1pGeYA_ZqB589tTHDEVeBk83pa6dXns9deqfT1emEtYU/edit#gid=0)  
-<img src="/images/FDA_Gantt.png" width="500">
+<img src="/images/FDA_Gantt.png" width="700">
 
