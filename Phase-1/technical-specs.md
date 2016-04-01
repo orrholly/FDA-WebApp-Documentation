@@ -40,7 +40,7 @@ AWS Apache / ArcGIS Server - Create WMS and WFS (web services) from data on SDE.
   > Pros:  Already have AWS; Can easily install LAPP; control of configuration, updates, and security, long experience with SDE/ArcGIS, lots of support, already built apis and ease of high-end analysis web services  
 Cons: $$, Not open source, will require a separate build from a postgis/postgreql installation 
 
-##Comparing Frontend Web Components
+##Comparing Front-end Web Solutions
 
 ###Openlayers 3 - Open Source
 With the upgrade to OpenLayers 3 in 2015, it has gotten a lot better. Can make multi-layer maps like in ESRI apis.  
@@ -48,3 +48,15 @@ Code: JavaScript
   * http://openlayers.org/
   * http://vasir.net/blog/openlayers/openlayers-tutorial-part-3-controls
   * Boundless has nice support docs: http://boundlessgeo.com/products/opengeo-suite/openlayers/
+  
+> Pros: great documentation and object library for creating a web interface similar to ESRI's. Boundless supports it. It's been around for a while (before Leaflet, MapBox, CartoDB). I built something with it 6 years ago - before version 3 was released.  
+Cons: Not as hipster as CartoDB, Leaflet.  
+
+###Openlayers 3 - Open Source
+With the upgrade to OpenLayers 3 in 2015, it has gotten a lot better. Can make multi-layer maps like in ESRI apis.  
+Code: JavaScript  
+  * http://openlayers.org/
+  * http://vasir.net/blog/openlayers/openlayers-tutorial-part-3-controls
+  * Boundless has nice support docs: http://boundlessgeo.com/products/opengeo-suite/openlayers/  
+
+
