@@ -79,6 +79,11 @@ This is the same approach Andrew used with the Flex API (getting depracated) and
 
 ##Other Considerations
 
+###Data Downloading / Cleaning  
+Not sure if this falls under Survos. I've documented what knowledge I have gathered from documents Tom has provided and links Tac has provided. Need direction on how or if to proceed on the data cleaning strategy. 
+
+Here is a link to the documentation I have started: 
+
 ###Geocoding  
 This can be expensive. Here are some solutions:
   * With our Basic Plan, CartoDB charges 1K/mo included US$15/1k extra
