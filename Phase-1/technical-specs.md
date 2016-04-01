@@ -85,3 +85,6 @@ This can be expensive. Here are some solutions:
   * ESRI - no longer included Geocoding with ArcGIS License. Have to use online Geocoding. I can check with my library friends to see how many service credits we have available at NYU. But from most of my discussions with other universities (Stanford, Columbia, Baruch, Pratt), the limit is hit pretty fast. ESRI's pricing/licensing is pretty confusing. See here: http://www.esri.com/software/arcgis/arcgisonline/credits  
   * Google Maps API geocoder - this used to be an open firehose, but Google put a stop to that a while back. Still can use it to geocode small batches through the API.
   * Lots of options for NYC area. I am documenting them here: [geocoding.md](/geocoding/geocoding.md)
+
+###Responsive Design
+I will have research this. I'm not sure how out of the box responsive design templates are with ESRI. I'd also have to research wrapping the mapping web-apps inside WordPress or Bootstrap responsive themes - and if they would play nicely. (http://getbootstrap.com/)  
