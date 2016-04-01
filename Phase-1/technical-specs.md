@@ -82,7 +82,7 @@ This is the same approach Andrew used with the Flex API (getting depracated) and
 ###Data Downloading / Cleaning  
 Not sure if this falls under Survos. I've documented what knowledge I have gathered from documents Tom has provided and links Tac has provided. Need direction on how or if to proceed on the data cleaning strategy. 
 
-Here is a link to the documentation I have started: 
+Here is a link to the documentation I have started: [Data Explainder.md](https://github.com/nyu-mhealth/FDA-WebApp/blob/master/Data/Data%20Explainer.md)  
 
 ###Geocoding  
 This can be expensive. Here are some solutions:
