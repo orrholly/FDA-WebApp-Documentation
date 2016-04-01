@@ -10,7 +10,7 @@ PostGIS/PostgreSQL - Hosted on CartoDB's cloud.
 **Web Server:**  
 AWS Apache / GeoServer - Hosted by CartoDB's Cloud.
 
-  > Pros: Easy to use for testing  
+  > **Pros:** Easy to use for testing  
 Cons: Limited control; can't guaranteed security; cost $$ for private instance  
 
 ###Backend Hosting on NYU Stack - Open Source
