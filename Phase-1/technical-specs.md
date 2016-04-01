@@ -44,7 +44,7 @@ AWS Apache / ArcGIS Server - Create WMS and WFS (web services) from data on SDE.
 
 ###Openlayers 3 - Open Source
 With the upgrade to OpenLayers 3 in 2015, it has gotten a lot better. Can make multi-layer maps like in ESRI apis.  
-Code: JavaScript, SQL PostgreSQL/PostGIS  
+Code: JavaScript, HTML, CSS, SQL PostgreSQL/PostGIS  
   * http://openlayers.org/
   * http://vasir.net/blog/openlayers/openlayers-tutorial-part-3-controls
   * Boundless has nice support docs: http://boundlessgeo.com/products/opengeo-suite/openlayers/
@@ -54,9 +54,25 @@ Code: JavaScript, SQL PostgreSQL/PostGIS
 
 ###CartoDB - Open Source
 Many people have used the CartoDB API's and libraries to create customized map apps.  Some people just use the backend for hosting because CartoDB implements a custom installation of PostGIS/PostgreSQL. See [this document](https://docs.google.com/document/d/1tutKhzrmon9YpGqIDH3vDPJnXDVPt5wG7SDSPXp9Ux4/edit#heading=h.48x7bb2w3y2o) for more on the inner workings of CartoDB's stack and pricing. 
-Code: JavaScript, SQL PostgreSQL/PostGIS, CartoDB packages and libraries   
+Code: JavaScript, HTML, CSS, SQL PostgreSQL/PostGIS, CartoDB packages and libraries   
   * https://cartodb.com/gallery/
   * [Holly's NYU meeting with CartoDB - 2015](https://docs.google.com/document/d/1tutKhzrmon9YpGqIDH3vDPJnXDVPt5wG7SDSPXp9Ux4/edit#heading=h.48x7bb2w3y2o)
 
-  > **Pros:**  Already have CartoDB account; easy to setup; great documentation; Holly has a personal relationship with the NYC office C-suite.
+  > **Pros:**  Already have CartoDB account; easy to setup; great documentation; Holly has a personal relationship with the NYC office C-suite.  
 **Cons:** $$; geocoding is not cheap (see Holly's meeting notes above); security could be a problem for IRB because using their backend; if CartoDB goes out of business - out of luck 
+
+###Hybrid: CartoDB, Leaflet.js, MapBox.js - Open Source
+This is a popular approach to creating customized map apps.  Once again, some people just use CartoDB as the backend.  
+Code: JavaScript, jQuery, HTML, CSS, SQL PostgreSQL/PostGIS, CartoDB packages and libraries   
+  * https://github.com/clhenrick/BushwickCommunityMap - can reverse engineer this as a guide.
+  * https://www.mapbox.com/mapbox.js/example/v1.0.0/layers/
+
+  > **Pros:**  Combines a lot of tools.  Good to have in-house knowledge of all these libraries, APIs. 
+**Cons:** development time may be a bit longer than straight up CartoDB. 
+
+###ESRI JavaScript API - Proprietary
+This is the same approach Andrew used with the Flex API (getting depracated) and the SilverLight API I developed in 5 years ago (also getting deprecated).     
+  * https://developers.arcgis.com/javascript/
+
+  > **Pros:**  Everything pretty much out of the box is sufficient to meet functional specs; Excellent phone support; ability to access high level analysis web services on backend data.  
+**Cons:** $$; proprietary; most likely still requires using the ESRI stack (ArcGIS Server); ESRI (like all things) can be buggy/klunky. 
