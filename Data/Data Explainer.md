@@ -7,14 +7,14 @@ The FDA makes its inspection data available here:
 
 ##Data Cleaning
 
-###From http://fdainspections.info/
+###From http://fdainspections.info/:  
 The data was downloaded from FDA (see above) in CSV (Commma-Separated Values), cleaned (there are some formatting issues in the data), and imported into a relational database.
 
 The cleaned data was then exported in run through geocoding software to get the latitude and longitude. Although this wasn't critical at this step, it was important for later integration with our Streetview project.
 
 Next, a "screen scraping" program was used to download the violation letters, basicially accomplishing the same thing as visiting each url for the violation letter, and saving the HTML (the letter with its formatting). Finally, another program was run that looked for certain patterns -- mostly the sections that were mentioned. The results were stored in a separate table, linked to the letter, which in turn was linked to the inspection and the store.
 
-###From National Enforcement of the FSPTCA at Point-of-Sale
+###From National Enforcement of the FSPTCA at Point-of-Sale:  
 Raw data on compliance checks completed since 2010 are publicly available for download from an FDA website, as well as a map
 feature that can display local compliance check outcomes: US Food and Drug Administration.  Available at: http://www.accessdata.fda.gov/scripts/oce/inspections/oce_insp_searching.cfm
 
