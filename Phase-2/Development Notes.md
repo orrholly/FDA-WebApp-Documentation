@@ -1,3 +1,10 @@
+
+###Fork Bushwick Community Mapper Github Repo
+
+Fork https://github.com/clhenrick/BushwickCommunityMap to NYU mHealth org
+Rename to 
+
+
 ###Setup SimpleHTTPServer on BushWick Directory
 
 my public address: http://128.122.59.247/
