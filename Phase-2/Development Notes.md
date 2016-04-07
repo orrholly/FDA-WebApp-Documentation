@@ -19,3 +19,6 @@ Now just open a web browser and go to http://128.122.59.247/:8000 To shut server
 ###Get Google Geocoding API Key (for address search)
 https://developers.google.com/maps/documentation/geocoding/get-api-key#key
 
+For IP Address: http://128.122.59.247:8000
+API Key: AIzaSyDj6Cz-The6dgtHU-4XSFxnEPe4VY-E9Ro
+
