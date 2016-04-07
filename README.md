@@ -1,5 +1,5 @@
-# FDA-Inspect
-Mapping web portal for FDA inspection data.
+# FDA-WebApp
+Documentation for Development of mapping web portal for FDA inspection data.
 
 Recreate functionality in Andrew's app: http://gis.truthinitiative.org/tobaccoviewer/   
 From the Truth Initiative Tobacco Viewer About section:  
