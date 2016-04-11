@@ -81,3 +81,5 @@ This is where I setup queireis:
         
         /Users/hollyorr/Desktop/nyumhealth_git/FDA-WebApp-Code/js/intro.js:
           96: el.taxLotActions['availfar']();
+          
+    Replaced all taxLots variables with warningpts
