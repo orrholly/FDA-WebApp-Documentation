@@ -22,3 +22,7 @@ https://developers.google.com/maps/documentation/geocoding/get-api-key#key
 For IP Address: http://128.122.59.247:8000  
 API Key: AIzaSyDj6Cz-The6dgtHU-4XSFxnEPe4VY-E9Ro  
 
+###Code Research
+
+**CartoDB.js**
+http://academy.cartodb.com/courses/cartodbjs-ground-up/createvis-vs-createlayer/
