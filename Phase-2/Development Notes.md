@@ -50,6 +50,17 @@ This is where it all starts :
         searchAddress();
         initZoomButtons();
         app.intro.init();  
+        
+This is where I setup queireis:
+
+        //HOLLY - comment out
+          // queries for warning types
+          // sent to cartodb when layer buttons clicked
+          el.sql = {
+            all : "SELECT * FROM allwarnings_dc1",
+            warningLetters : "SELECT * FROM allwarnings_dc1 WHERE decisiontype = 'Warning Letter'",
+            civilPenalty : "SELECT * FROM bushwick_pluto14v1 WHERE decisiontype = 'Civil Money Penalty'",
+          };
   
   ####mapstyles.js  
   This is where all the css is for each layer
