@@ -20,6 +20,12 @@ https://developers.google.com/maps/documentation/geocoding/get-api-key#key
 For IP Address: http://128.122.59.247:8000  
 API Key: AIzaSyDj6Cz-The6dgtHU-4XSFxnEPe4VY-E9Ro  
 
+**UPDATE** Do not need key anymore for geocoding with Google - although there is a 2500 free limit a day https://developers.google.com/maps/documentation/geocoding/usage-limits  
+
+Instead use this snippet:  
+
+          <script src="http://maps.google.com/maps/api/js?v=3&sensor=false"></script> 
+
 ###Code Research
 
 **CartoDB.js**
