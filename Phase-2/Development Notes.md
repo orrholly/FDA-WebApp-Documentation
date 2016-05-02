@@ -89,3 +89,8 @@ This is where I setup queireis:
           96: el.taxLotActions['availfar']();
           
     Replaced all taxLots variables with warningpts
+    
+### Use Mapbox basemap  
+
+Account is saved in CGPH LastPass  
+public access token: pk.eyJ1Ijoibnl1bWhlYWx0aCIsImEiOiJjaW5xMXU5d2IxMDlldWdseW9zbXl3dG94In0.pC5lMAc_tKvgtUcHquXuwg  
