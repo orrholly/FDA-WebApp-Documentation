@@ -19,8 +19,8 @@ Backend: CartoDB, local geojson
 - Smokefree Laws - obatined new data, downloaded/cleaned, converted to spatial, created layer with popups and legend
 - State Excise Tax - obatined new data, downloaded/cleaned, converted to spatial, created layer with popups and legend
 - Youth Smoking Rates - obatined new data, downloaded/cleaned, converted to spatial, created layer with popups and legend
-- Adult Smoking Rates - obatined new data, downloaded/cleaned, converted to spatial, created layer with popups and legend
-- 
+- Adult Smoking Rates - obatined new data, downloaded/cleaned, converted to spatial, created layer with popups and legend  
+
 **Base Layers**
 - Street Layer
 - Satellite Layer
