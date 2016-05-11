@@ -103,5 +103,9 @@ http://gis.stackexchange.com/questions/83092/how-do-you-create-a-cartodb-viz-wit
 http://gis.stackexchange.com/questions/108656/how-to-add-multiple-cartodb-layers-in-viz-json-to-a-leaflet-layer-control  
 http://byndhack.herokuapp.com/  
 http://docs.cartodb.com/tutorials/custom_interactivity/  
+http://gis.stackexchange.com/questions/108656/how-to-add-multiple-cartodb-layers-in-viz-json-to-a-leaflet-layer-control  
+https://jsfiddle.net/raquelalegre/4vkc028a/  
+http://academy.cartodb.com/courses/cartodbjs-ground-up/creating-basic-map-apps/  
+http://bl.ocks.org/xatpy/6bdbae5de103ca8c279c  
 
 
