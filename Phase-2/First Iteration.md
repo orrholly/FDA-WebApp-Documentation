@@ -1,5 +1,5 @@
 
-####Description  
+##Description  
 **Hosted on AWS S3:** http://nyufda.com.s3-website-us-east-1.amazonaws.com/  
 **Frontend:** Open source - CartoDB.js, Leaflet.js, MapBox.js, Google API, Bing Satellite Imagery  
 **Backend:** CartoDB, local geojson   
@@ -13,8 +13,9 @@
 ##Done:
 
 **Violation Layers**  
-- FDA Warning Letters - accessed from csv, geocoded, and infowindow with link to violation
-- FDA Civil Penalities - accessed from csv, geocoded, and infowindow with link to violation
+- FDA Warning Letters - accessed from csv, geocoded, and infowindow with link to violation, only visible in zoom > 6
+- FDA Civil Penalities - accessed from csv, geocoded, and infowindow with link to violation, only visible in zoom > 6
+- FDA All violations - accessed from csv, geocoded, and created graduated circles, only visible in zoom <= 7
 
 **Choropleth Layers**  
 - FDA Contracts - obatined new data, downloaded/cleaned, converted to spatial, created layer with popups and legend
@@ -32,10 +33,15 @@
 
 **Navigation Controls**
 
-###To Do:
+##To Do:  
 
-Review functionality
-Lay points over polygons?
-Separate selector for each violations layer?
+####National Geocoding  
 
-Full geocoding:
+
+####Review Functionality  
+- Lay points over polygons?  
+- Separate selector for each violations layer?
+- Select by and admin boundary? - this was in older app - but not sure purpose 
+- other layers?
+
+
