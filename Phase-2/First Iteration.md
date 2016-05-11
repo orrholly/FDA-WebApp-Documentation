@@ -42,7 +42,6 @@
 
 
 ####Review Functionality  
-- Lay points over polygons?  
 - Separate selector for each violations layer?
 - Select by and admin boundary? - this was in older app - but not sure purpose 
 - other layers?
