@@ -94,3 +94,14 @@ This is where I setup queireis:
 
 Account is saved in CGPH LastPass  
 public access token: pk.eyJ1Ijoibnl1bWhlYWx0aCIsImEiOiJjaW5xMXU5d2IxMDlldWdseW9zbXl3dG94In0.pC5lMAc_tKvgtUcHquXuwg  
+
+### Create separate layers for violations points (viz vs createlayer)  
+http://bl.ocks.org/clhenrick/5928c5328b416dcb4c88  
+http://bl.ocks.org/xavijam/7283a403afb6a54eda9a  
+http://academy.cartodb.com/courses/cartodbjs-ground-up/createvis-vs-createlayer/  
+http://gis.stackexchange.com/questions/83092/how-do-you-create-a-cartodb-viz-with-a-dynamic-sql-statement  
+http://gis.stackexchange.com/questions/108656/how-to-add-multiple-cartodb-layers-in-viz-json-to-a-leaflet-layer-control  
+http://byndhack.herokuapp.com/  
+http://docs.cartodb.com/tutorials/custom_interactivity/  
+
+
