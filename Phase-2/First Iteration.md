@@ -39,7 +39,11 @@
 ##To Do:  
 
 ####National Geocoding  
-
+Here is the doc going in more detail: https://github.com/nyu-mhealth/GeoTools/blob/master/geocoding/geocoding.md  
+- CartoDB
+- QGIS
+- ArcGIS (for NYC)
+- Google API (Python with pause)
 
 ####Review Functionality  
 - Separate selector for each violations layer?
