@@ -12,12 +12,12 @@
 
 ##Done:
 
-**Violation Layers**  
+**1. Violation Layers**  
 - FDA Warning Letters - accessed from csv, geocoded, and infowindow with link to violation, only visible in zoom > 6
 - FDA Civil Penalities - accessed from csv, geocoded, and infowindow with link to violation, only visible in zoom > 6
 - FDA All violations - accessed from csv, geocoded, and created graduated circles, only visible in zoom <= 7
 
-**Choropleth Layers**  
+**2. Choropleth Layers**  
 - FDA Contracts - obatined new data, downloaded/cleaned, converted to spatial, created layer with popups and legend
 - State Synar Rates - obatined new data, downloaded/cleaned, converted to spatial, created layer with popups and legend
 - Smokefree Laws - obatined new data, downloaded/cleaned, converted to spatial, created layer with popups and legend
@@ -25,13 +25,16 @@
 - Youth Smoking Rates - obatined new data, downloaded/cleaned, converted to spatial, created layer with popups and legend
 - Adult Smoking Rates - obatined new data, downloaded/cleaned, converted to spatial, created layer with popups and legend  
 
-**Base Layers**
+**3. Base Layers**
 - Street Layer
 - Satellite Layer
 
-**Search by Address**
+**4. Search by Address**
 
-**Navigation Controls**
+**5. Navigation Controls**
+
+##In Progress:
+- Refactoring Code: https://github.com/nyu-mhealth/FDA-WebApp-Code  
 
 ##To Do:  
 
