@@ -1,11 +1,14 @@
 
 ####Description  
-Hosted on AWS S3: http://nyufda.com.s3-website-us-east-1.amazonaws.com/  
-Frontend: Open source - CartoDB.js, Leaflet.js, MapBox.js, Google API, Bing Satellite Imagery  
-Backend: CartoDB, local geojson   
+**Hosted on AWS S3:** http://nyufda.com.s3-website-us-east-1.amazonaws.com/  
+**Frontend:** Open source - CartoDB.js, Leaflet.js, MapBox.js, Google API, Bing Satellite Imagery  
+**Backend:** CartoDB, local geojson   
 
 ####Time in Development
-
+**Estimated Phase 1 development time:** 34 days
+**Actual development time:** 18 days
+[FDA Web App - GANTT Chart](https://docs.google.com/spreadsheets/d/1pGeYA_ZqB589tTHDEVeBk83pa6dXns9deqfT1emEtYU/edit#gid=0)  
+<img src="/images/FDA_Gantt.png" width="400">
 
 ##Done:
 
