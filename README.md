@@ -6,7 +6,7 @@ From the Truth Initiative Tobacco Viewer About section:
 
 > This application was developed as a tool that allows for the examination of changes in FDA compliance check inspections over time. The tool is integrated with Truth Initiative’s GIS portal, which allows users to explore how compliance check inspections may be associated with a range of other factors. Users can quickly zoom to their local area and bookmark their preferences as they overlay various data sources and visualize the results.
 
-###Phase 1:  User Stores and Tech Overview
+### Phase 1:  User Stores and Tech Overview
 
 User stories are described in Jira, the Tech Overview should be written in the README file of the github repo for this project.  This file (and all files, actually) should be committed and pushed to the repo every few hours during development.
 
@@ -22,7 +22,7 @@ This should be relatively easy to do, since it's simply running the current webs
 
 A one or two page overview that includes all the relevant technologies and basic timeline/sequence.  This should list specific technologies for each major component within the system.  It shouldn't simply be a list (e.g. "We're going to use PostGIS and Python"), but rather a breakdown for each individual component ("The import script be run from the command line and written in Python, and will store data on a PostGIS RDS instance.")
 
-###Phase 2: Development/Coding
+### Phase 2: Development/Coding
 
 Once the Technical Proposal and User Stories have been agreed upon, the User Stories will be broken down into tasks that take between 1 and 4 hours to complete.  Every github commit MUST reference a Jira Task.  And github commits should take place frequently, every hour or so.
 
